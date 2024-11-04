@@ -6,6 +6,8 @@ Each directory contains a specific KiCAD assignment problem.
 + Fork this repository
 + Make a local copy using 'git clone <repo link address>'
 + View the README file inside the directory with your name
++ Paste the zipped gerber of any previous designs you have made into your directory
++ git commit -am 'previous work'
 + Create a KiCAD project inside the directory with your name
   + Create schematic diagram
   + Create any new symbols if needed
